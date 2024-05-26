@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Ella (Lost-Entrepreneur439)",
+			"oem": "Ella",
+			"device": "Pixel 6",
+			"filename": "crDroidAndroid-14.0-20240525-oriole-v10.5.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/oriole/10.x/crDroidAndroid-14.0-20240525-oriole-v10.5.zip/download",
+			"timestamp": 1716665273,
+			"md5": "2542834355c3ee42abedc870d8b0f86f",
+			"sha256": "98b0e224083c4a24a8a7e09aeea78523797cd57df54e5264d5accf388193edd9",
+			"size": 1541492637,
+			"version": "10.5",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
